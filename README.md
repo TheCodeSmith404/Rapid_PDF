@@ -1,41 +1,34 @@
-# Rapid PDF
+# RapidPDF - Simplify Your PDF Management
 
-An android Application for tracking and managing personal finance
-## App Screenshots
+![RapidPDF Logo](assets/logo.png)
+
+**RapidPDF** is a fast and efficient PDF management tool designed to streamline your workflow. Whether you're a student, professional, or frequent PDF user, RapidPDF helps you stay organized with powerful yet easy-to-use features.
+
+## 🚀 Features
+
+- **📄 Rapid Skimming:** Quickly swipe through multiple PDFs without opening each file individually.
+- **🗑️ Delete & Rename:** Easily manage your PDFs by renaming files and removing unwanted documents.
+- **📂 Categorize Files:** Organize your PDFs into custom categories for easy access.
+- **🖥️ User-Friendly Interface:** Intuitive UI for a seamless PDF management experience.
+
+## 🛠️ Tech Stack
+
+- **Language:** Kotlin (Android) / Swift (iOS)
+- **PDF Processing:** PDF.js (for web) / PDFBox (Android) / PDFKit (iOS)
+- **Storage:** SQLite, Room Database, or Local File Storage
+- **UI Framework:** Jetpack Compose (Android) / SwiftUI (iOS)
+- **Version Control:** Git & GitHub
+
+## 📷 Screenshots
+
 <p align="center">
-  <img src="Images/photo1709904070%20(1).jpeg" width="30%" />
-  <img src="Images/photo1709904070%20(2).jpeg" width="30%" />
-  <img src="Images/photo1709904070(4).jpeg" width="30%" />
-
-  <img src="Images/photo1709904070%20(3).jpeg" width="30%" />
-  <img src="/Images/photo1709904070.jpeg" width="30%" />
-  <img src="Images/photo1709904070 (5).jpeg" width="30%" />
+  <img src="assets/screenshot1.png" width="30%">
+  <img src="assets/screenshot2.png" width="30%">
+  <img src="assets/screenshot3.png" width="30%">
+</p>
+<p align="center">
+  <img src="assets/screenshot4.png" width="30%">
+  <img src="assets/screenshot5.png" width="30%">
+  <img src="assets/screenshot6.png" width="30%">
 </p>
 
-## Features
-
-- **Personal Finance Management**: Easily manage your personal finances, track income, and monitor expenses.
-- **Expense Categorization**: Categorize your expenses to gain insights into your spending habits.
-- **Custom Categories and Subcategories**: Create custom categories and subcategories to organize your transactions according to your needs.
-- **Data Export**: Export your financial data as TXT or CSV files for further analysis or backup purposes.
-- **Transaction Reminders**: Set reminders for pending transactions to ensure timely payments and avoid missed deadlines.
-- **Scheduled SMS Reminders**: Schedule SMS reminders to notify recipients about pending payments or to remind them to return borrowed money.
-
-## Installation
-
-Download my-project from Github
-
-[<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
-    alt="Get it on GitHub"
-    height="80">](https://github.com/TheCodeSmith404/Expense-Register/releases/tag/v1.0)
-
-## Future Features
-
-Here are some features I plan to add in future releases:
-
-- **Budgeting Options**: Introduce options to set budgets for different expense categories to help users better manage their finances.
-- **Graphical Trends**: Implement graphs and charts to visualize spending trends over time, providing users with insights into their financial habits.
-- **Customizable Dashboard**: Allow users to customize their dashboard according to their preferences, making it more personalized and user-friendly.
-- **UI/UX Enhancements**: Improve the user interface and experience by enhancing design elements and incorporating smooth animations.
-
-If you have any suggestions for additional features, please feel free to open an issue or submit a pull request!
